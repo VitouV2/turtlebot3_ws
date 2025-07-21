@@ -80,7 +80,7 @@ nano /home/v2/turtlebot3_ws/src/bug2_nav/bug2_nav/attr_field.py
 Look for lines like: 
 python
 
-self.goal_x = 2.0
-self.goal_y = 2.0
+- self.goal_x = 2.0
+- self.goal_y = 2.0
  
 Change them and re-run. 
