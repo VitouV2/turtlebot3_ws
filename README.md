@@ -57,7 +57,7 @@ export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/home/v2/turtlebot3_ws/src/bug2_nav/
 export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:/home/v2/turtlebot3_ws/src/bug2_nav/bug2_nav/worlds
 ```
 
-🧠 Run the Bug2 Navigation Algorithm 
+Run the Bug2 Navigation Algorithm 
 
 In a new terminal, source the workspace and run the Bug2 node: 
 
