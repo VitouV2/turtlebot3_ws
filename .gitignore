@@ -1,0 +1,23 @@
+# Build & Install folders
+build/
+install/
+log/
+*.log
+
+# ROS-specific
+/devel
+/setup.bash
+/setup.zsh
+*.swp
+*.swo
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+
+# Python
+__pycache__
+*.pyc
